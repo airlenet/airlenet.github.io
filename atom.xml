@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AirleNet</title>
+  
+  
+  <link href="https://airlenet.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://airlenet.github.io/"/>
+  <updated>2020-09-20T15:06:57.751Z</updated>
+  <id>https://airlenet.github.io/</id>
+  
+  <author>
+    <name>AirleNet</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Aftp 2020.10 版本发布</title>
+    <link href="https://airlenet.github.io/2020/10/08/release-aftp-2020-10/"/>
+    <id>https://airlenet.github.io/2020/10/08/release-aftp-2020-10/</id>
+    <published>2020-10-07T16:00:00.000Z</published>
+    <updated>2020-09-20T15:06:57.751Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Aftp-2020-10"><a href="#Aftp-2020-10" class="headerlink" title="Aftp 2020.10"></a>Aftp 2020.10</h2><p>Aftp是一个快速可靠的、跨平台的FTP和SFTP客户端。具有图形用户界面(GUI)和很多有用的特性</p><h4 id="特性"><a href="#特性" class="headerlink" title="特性"></a>特性</h4><p>易于使用</p><p>支持FTP协议，支持SSH文件传输协议(SFTP)</p><p>跨平台。在 Windows, Linux, *BSD, Mac OS X 和其它平台下运行 more</p><p>支持IPv6协议</p><p>多标签用户界面</p><p>传输队列管理</p><h4 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h4><p><a href="/downloads/aftp-download">下载地址</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Aftp-2020-10&quot;&gt;&lt;a href=&quot;#Aftp-2020-10&quot; class=&quot;headerlink&quot; title=&quot;Aftp 2020.10&quot;&gt;&lt;/a&gt;Aftp 2020.10&lt;/h2&gt;&lt;p&gt;Aftp是一个快速可靠的、跨平台的FTP和SFTP客户端。具</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
